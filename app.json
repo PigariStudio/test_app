@@ -1,1 +1,15 @@
-{}
+{
+  "name": "test_app",
+  "description": "A sample app",
+  "version": "1.0",
+  "author": "Pigari Studio",
+  "license": "builtin",
+  "repository": "https://github.com/PigariStudio/test_app/",
+  "main_file": "app/main.py",
+  "files": [
+    "app/module1"
+  ],
+  "language": "python",
+  "other_actions": [],
+  "others": {}
+}
