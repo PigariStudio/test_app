@@ -15,3 +15,5 @@ def create_window():
 
     # Start the Tkinter event loop
     root.mainloop()
+
+create_window()
