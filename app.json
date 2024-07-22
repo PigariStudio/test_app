@@ -3,7 +3,7 @@
   "description": "A sample app",
   "version": "1.0",
   "author": "Pigari Studio",
-  "license": "builtin",
+  "license": "PigarOS Builtin License",
   "repository": "https://github.com/PigariStudio/test_app/",
   "main_file": "app/main.py",
   "files": [
